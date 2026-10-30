@@ -39,3 +39,10 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Local application data and frontend output
+.data/
+node_modules/
+frontend/dist/
+*.tsbuildinfo
+.demo-credentials
